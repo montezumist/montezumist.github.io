@@ -1,6 +1,7 @@
 ---
 title: Testing the display of code with different type of highlighting
 excerpt: This post shows code highlighting
+tags: highlighting rouge
 ---
 
 In this post I am going to write some code, and then at some point, I will update the _sass/_syntax.css to update the highlight schema that is used here.
