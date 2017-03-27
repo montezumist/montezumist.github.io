@@ -231,10 +231,10 @@ compress_html:
 
 # Collections
 collections:
-  - recipes:
+  recipes:
     output: true
     permalink: /:collection/:path
-  - tutorials:
+  tutorials:
     output: true
     permalink: /:collection/:path
 
