@@ -10,6 +10,10 @@ How does one draw a line in markdown?
 
 
 Below I am going to try with hyphens without any space:
+
+
 Test 4 with dashes and spaces:
 -----------------------------
+
 blah blah blah 
+
