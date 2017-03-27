@@ -1,11 +1,12 @@
 ---
-title: Testing the display of code with different type of highlighting
+title: "Testing the display of code with different type of highlighting"
 excerpt: This post shows code highlighting
-tags: highlighting rouge
+tags: [highlighting, rouge]
 ---
 
 In this post I am going to write some code, and then at some point, I will update the _sass/_syntax.css to update the highlight schema that is used here.
 
+The following code snipped is highlighted using Rouge:
 ```python
 def topological_sort(self):
     """
@@ -38,3 +39,19 @@ def topological_sort(self):
 
     return sorted_graph
 ```
+
+The following is highlighted using the Pygments highlighter native to Jekyll:
+{% highlight python %}
+def build_unsorted_graph(self):
+    # Given the nodes, create an unsorted graph with has the list of nodes and all the vertices they are tied to
+
+    interim = {}
+    for node in self.nodes:
+        # dependencies are the list of nodes that need to be started before current node is started
+        # so in a graph, the dependencies would be incoming arrows that go to the current node
+        if node not in interim:
+            interim[node] = node.dependencies
+
+    self.set_unsorted_graph(interim)
+    return interim
+{% highlight %}
