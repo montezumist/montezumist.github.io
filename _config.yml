@@ -78,7 +78,7 @@ analytics:
 # Site Author
 author:
   name             : "Your Name"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : https://s-media-cache-ak0.pinimg.com/736x/b2/ae/ff/b2aeff27e85bf71b17ede68f16a97cce.jpg # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "I am an amazing person."
   location         : "Boston, MA"
   email            : montezumist@yahoo.com

@@ -1,5 +1,6 @@
 ---
 title: "Mushroom Risotto"
+excerpt: "A quick risotto cooked using a pressure cooker"
 ---
 
 **Details**
