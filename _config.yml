@@ -229,6 +229,16 @@ compress_html:
     envs: development
 
 
+# Collections
+collections:
+  - recipes:
+    output: true
+    permalink: /:collection/:path
+  - tutorials:
+    output: true
+    permalink: /:collection/:path
+
+
 # Defaults
 defaults:
   # _posts
@@ -241,7 +251,7 @@ defaults:
       read_time: false
       comments: true
       share: true
-      related: true
+      related: false
   # _pages
   - scope:
       path: ""
@@ -249,3 +259,19 @@ defaults:
     values:
       layout: single
       author_profile: true
+  # _recipes
+  - scope:
+      path: ""
+      type: recipes
+    values:
+      layout: single
+      author_profile: true
+      related: true
+  # _tutorials
+  - scope:
+      path: ""
+      type: tutorials
+    values:
+      layout: single
+      author_profile: true
+      related: false
