@@ -1,19 +1,25 @@
 ---
 permalink: /cv/
 tags: CV
+categories: pages
 ---
 
-Here is my CV.
+### Work Experience
+- - - - - - - - - -
+- Senior Software Engineer
+- Software Engineer
+- Software Engineering Intern
+- Research & Development Intern
+- Test Engineering Intern
+
+
+### Education
 - - - - - - - -
-If I use hyphens without spaces, then the text before that becomes a heading. 
-How does one draw a line in markdown?
+- Master of Engineering in Electrical Engineering and Computer Science
+- Bachelor of Science in Electrical Engineering and Computer Science
+- Study-abroad exchange programme
 
-
-Below I am going to try with hyphens without any space:
-
-
-Test 4 with dashes and spaces:
------------------------------
-
-blah blah blah 
-
+### Skills
+- - - - - 
+- Python
+- Java
