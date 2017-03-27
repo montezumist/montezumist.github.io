@@ -80,8 +80,8 @@ author:
   name             : "Your Name"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "I am an amazing person."
-  location         : "Somewhere"
-  email            :
+  location         : "Boston, MA"
+  email            : montezumist@yahoo.com
   uri              :
   bitbucket        :
   codepen          :
@@ -135,8 +135,6 @@ exclude:
   - Rakefile
   - README
   - tmp
-  - /docs # ignore Minimal Mistakes /docs
-  - /test # ignore Minimal Mistakes /test
 keep_files:
   - .git
   - .svn
@@ -240,8 +238,8 @@ defaults:
     values:
       layout: single
       author_profile: true
-      read_time: true
-      comments: # true
+      read_time: false
+      comments: true
       share: true
       related: true
   # _pages
