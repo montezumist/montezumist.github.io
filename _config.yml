@@ -265,7 +265,7 @@ defaults:
       type: recipes
     values:
       layout: single
-      author_profile: true
+      author_profile: false
       related: true
   # _tutorials
   - scope:
@@ -273,5 +273,5 @@ defaults:
       type: tutorials
     values:
       layout: single
-      author_profile: true
+      author_profile: false
       related: false
