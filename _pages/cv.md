@@ -6,20 +6,18 @@ categories: pages
 
 ### Work Experience
 - - - - - - - - - -
-- Senior Software Engineer
-- Software Engineer
-- Software Engineering Intern
-- Research & Development Intern
-- Test Engineering Intern
+- Oct 2015 - present: Senior Software Engineer, Oracle
+- Jul 2012 - Oct 2015: Software Engineer, Oracle
+- Jun 2011 - Sep 2011: Software Engineering Intern, Oracle
+- Jun 2010 - Sep 2010: Research & Development Intern, Orange Labs
+- Jun 2009 - Jul 2009: Test Engineering Intern, Continental AG
 
 
 ### Education
 - - - - - - - -
-- Master of Engineering in Electrical Engineering and Computer Science
-- Bachelor of Science in Electrical Engineering and Computer Science
-- Study-abroad exchange programme
+- June 2012: M.Eng. in Electrical Engineering and Computer Science, MIT
+- June 2011: B.Sc. in Electrical Engineering and Computer Science, MIT
 
 ### Skills
 - - - - - 
-- Python
-- Java
+- Python, Java
