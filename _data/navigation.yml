@@ -5,7 +5,7 @@ main:
   - title: "Posts"
     url: /post-archive/
   - title: "CV"
-    url: /year-archive/
+    url: /cv/
   # - title: "Sample Collections"
   #   url: /collection-archive/
   - title: "Recipes"
