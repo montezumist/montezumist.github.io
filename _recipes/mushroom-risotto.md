@@ -4,7 +4,7 @@ excerpt: "A quick risotto cooked using a pressure cooker"
 categories: Recipes
 ---
 
-{% include toc.html %}
+{% include toc %}
 
 #### Details
 * Prep time: 15 minutes
