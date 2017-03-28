@@ -7,6 +7,7 @@ categories: Recipes
 {% include toc %}
 
 ### Details
+{:.no_toc}
 * Prep time: 15 minutes
 * Cook time: 7 minutes
 * Servings: 5-6
