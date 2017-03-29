@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en"
-title                    : "Site Title"
+title                    : "Cochon d'Inde Féroce"
 title_separator          : "-"
-name                     : "Your Name"
+name                     : "Ferocious Guinea Pig"
 description              : "An amazing website."
 url                      : https://montezumist.github.io
 baseurl                  : # the subpath of your site, e.g. "/blog"
