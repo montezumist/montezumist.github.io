@@ -7,6 +7,7 @@ categories: Recipes
 {% include toc %}
 
 ### Details
+{:.no_toc}
 * Prep time: 5 minutes
 * Rest time: 45 minutes - 2 hours
 * Cook time: depends
