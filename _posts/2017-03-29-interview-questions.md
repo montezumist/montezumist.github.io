@@ -1,10 +1,5 @@
 ---
 title: "Interview questions"
-excerpt: "A small collection of programming interview questions"
-tags: [Interviews]
----
----
-title: "Interview questions"
 excerpt: "A list of random programming interview questions"
 tags: [interviews]
 ---
