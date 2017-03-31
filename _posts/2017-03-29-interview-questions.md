@@ -1,7 +1,7 @@
 ---
 title: "Interview questions"
 excerpt: "A list of random programming interview questions"
-tags: [interviews]
+tags: [Interviews]
 ---
 
 - You are at the airport about to go on a trip and you have a ticket for each one of your flights. However, you drop all your tickets. So given your tickets on the ground, find your original itinerary.
@@ -16,3 +16,4 @@ EAST
 ASDA
 STAR
 ```
+- Given a long integer, determine if it is a power of 4.
