@@ -17,3 +17,4 @@ ASDA
 STAR
 ```
 - Given a long integer, determine if it is a power of 4.
+- Given a sorted array of integers that has been rotated any number of times, determine whether an integer is within the array.
